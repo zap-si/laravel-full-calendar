@@ -1,28 +1,28 @@
 {
-    "name": "qlick/laravel-full-calendar",
+    "name": "defmost/laravel-full-calendar",
     "description": "Laravel helper for FullCalendar.io. Fork of https://github.com/maddhatter/laravel-fullcalendar",
     "authors": [
         {
-            "name": "Qlick by Nermin Elkasovic",
-            "email": "nermin@qlick.ch",
-            "homepage": "https://qlick.ch",
+            "name": "David Saavedra",
+            "email": "david.saavedra.cl@gmail.com",
+            "homepage": "https://github.com/defmost",
             "role": "Developer"
         }
     ],
     "require": {
-        "php": "^7.1|^8.0",
-        "illuminate/database": "^7.0|^8.0",
-        "illuminate/support": "^7.0|^8.0",
+        "php": "^8.1",
+        "illuminate/database": "^8.0|^9.0",
+        "illuminate/support": "^8.0|^9.0",
         "laravel/helpers": "^1.0"
     },
     "license": "MIT",
-    "homepage": "https://github.com/nelkasovic/laravel-full-calendar",
+    "homepage": "https://github.com/defmost/laravel-full-calendar",
     "support": {
         "email": "nermin@qlick.ch",
-        "issues": "https://github.com/nelkasovic/laravel-full-calendar/issues",
-        "wiki": "https://github.com/nelkasovic/laravel-full-calendar/wiki",
-        "source": "https://github.com/nelkasovic/laravel-full-calendar",
-        "docs": "https://github.com/nelkasovic/laravel-full-calendar"
+        "issues": "https://github.com/defmost/laravel-full-calendar/issues",
+        "wiki": "https://github.com/defmost/laravel-full-calendar/wiki",
+        "source": "https://github.com/defmost/laravel-full-calendar",
+        "docs": "https://github.com/defmost/laravel-full-calendar"
     },
     "autoload": {
         "psr-4": {
